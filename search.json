@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects/project-a/index.html",
+    "href": "projects/project-a/index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "Enter your biography blurb here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "matplotlib demo",
+    "section": "",
+    "text": "Hi my name is Qui Nguyen, I am currently studying Business Analytics at UC Irvine Merage School of Business!"
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "matplotlib demo",
+    "section": "",
+    "text": "Hi my name is Qui Nguyen, I am currently studying Business Analytics at UC Irvine Merage School of Business!"
+  },
+  {
+    "objectID": "about.html#what-is-my-mission",
+    "href": "about.html#what-is-my-mission",
+    "title": "matplotlib demo",
+    "section": "What is my mission?",
+    "text": "What is my mission?\nI have both long term and short term goals that I hope to achieve. My short term goal is to graduate from this masters program and work towards financial security as well as improving my data anayltical abilities. My long term goal is to provide affordable healthcare and solutions to those who need it the most."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Qui Nguyen",
+    "section": "",
+    "text": "Enter your biography blurb here."
+  }
+]
